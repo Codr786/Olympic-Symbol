@@ -1,5 +1,5 @@
 canvas = document.getElementById("canvas1");
-ctx = canvas.getElementById("2d");
+canvas.getContext("2d");
 
 ctx.beginPath();
 ctx.strokeStyle = "grey";
