@@ -1,0 +1,20 @@
+html{
+    scroll-behavior: smooth;
+}
+.body-background{
+    background-image: url("bg.jpeg");
+    background-size: cover;
+    background-position: center;
+}
+h1{
+    color: rgb(199, 94, 94);
+    font-size:40px;
+    font-style:arial-black;
+    margin-top:15px;
+}
+#canvas1{
+    background-color: white;
+    border-width: 10px;
+    border-style:ridge;
+    border-color: black;
+}
