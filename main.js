@@ -36,3 +36,4 @@ ctx.strokeStyle = "green";
 ctx.lineWidth = 5;
 ctx.arc(400,250,40,0,2*Math.PI);
 ctx.stroke();
+
